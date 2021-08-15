@@ -1,0 +1,384 @@
+
+04/09/2021 06:1618006312  PM - INFO - *********  Test_001_Login **************
+04/09/2021 06:1618006312  PM - INFO - ****************** Verifing home Page title ****************
+04/09/2021 06:1618006316  PM - INFO - **************  Home Page title is passed  ****************
+04/09/2021 06:1618006318  PM - INFO - ************  Verifing Login Test **************
+04/09/2021 06:1618006327  PM - INFO - ***********  Login Test is Passed ************
+04/09/2021 06:1618006395  PM - INFO - *********  Test_001_Login **************
+04/09/2021 06:1618006395  PM - INFO - ****************** Verifing home Page title ****************
+04/09/2021 06:1618006400  PM - INFO - **************  Home Page title is passed  ****************
+04/09/2021 06:1618006402  PM - INFO - ************  Verifing Login Test **************
+04/09/2021 06:1618006409  PM - INFO - ***********  Login Test is Passed ************
+04/09/2021 06:1618006827  PM - INFO - ************  Test_0022_DDT_Login **************
+04/09/2021 06:1618006904  PM - INFO - ************  Test_0022_DDT_Login **************
+04/09/2021 06:1618006950  PM - INFO - ************  Test_0022_DDT_Login **************
+04/13/2021 09:1618322089  AM - INFO - *********  Test_001_Login **************
+04/13/2021 09:1618322089  AM - INFO - ****************** Verifing home Page title ****************
+04/13/2021 09:1618322091  AM - INFO - **************  Home Page title is passed  ****************
+04/13/2021 09:1618322093  AM - INFO - ************  Verifing Login Test **************
+04/13/2021 09:1618322098  AM - INFO - ***********  Login Test is Passed ************
+04/13/2021 04:1618345354  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 07:1618401448  AM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 08:1618401613  AM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 08:1618401893  AM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 08:1618401975  AM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 08:1618403269  AM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 08:1618403428  AM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 08:1618403501  AM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 03:1618429683  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 03:1618429728  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 03:1618429887  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618430690  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618431489  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618431594  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618431793  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618431947  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618432433  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618432547  PM - INFO - ************  Test_0022_DDT_Login **************
+04/14/2021 04:1618433167  PM - INFO - ************  Test_0022_DDT_Login **************
+04/19/2021 10:1618840916  AM - INFO - *********  Test_001_Login **************
+04/19/2021 10:1618840916  AM - INFO - ****************** Verifing home Page title ****************
+04/19/2021 10:1618840919  AM - INFO - **************  Home Page title is passed  ****************
+04/19/2021 10:1618840922  AM - INFO - ************  Verifing Login Test **************
+04/19/2021 10:1618840927  AM - INFO - ***********  Login Test is Passed ************
+04/29/2021 04:1619728695  PM - INFO - **** Test_003_AddCustomer ****
+04/29/2021 04:1619728698  PM - INFO - ***** Login Sucessful ****
+04/29/2021 04:1619728698  PM - INFO - ***** Starting Add customer Test ***** 
+04/30/2021 07:1619782762  AM - INFO - *********  Test_001_Login **************
+04/30/2021 07:1619782762  AM - INFO - ****************** Verifing home Page title ****************
+04/30/2021 07:1619782764  AM - INFO - **************  Home Page title is passed  ****************
+04/30/2021 07:1619782766  AM - INFO - ************  Verifing Login Test **************
+04/30/2021 07:1619782772  AM - INFO - ***********  Login Test is Passed ************
+04/30/2021 07:1619782806  AM - INFO - **** Test_003_AddCustomer ****
+04/30/2021 07:1619782811  AM - INFO - ***** Login Sucessful ****
+04/30/2021 07:1619782811  AM - INFO - ***** Starting Add customer Test ***** 
+04/30/2021 07:1619782813  AM - INFO - **** Providing customer info ****
+04/30/2021 07:1619782898  AM - INFO - **** Test_003_AddCustomer ****
+04/30/2021 07:1619782905  AM - INFO - ***** Login Sucessful ****
+04/30/2021 07:1619782905  AM - INFO - ***** Starting Add customer Test ***** 
+04/30/2021 07:1619782907  AM - INFO - **** Providing customer info ****
+04/30/2021 07:1619782987  AM - INFO - **** Test_003_AddCustomer ****
+04/30/2021 07:1619782993  AM - INFO - ***** Login Sucessful ****
+04/30/2021 07:1619782993  AM - INFO - ***** Starting Add customer Test ***** 
+04/30/2021 07:1619782995  AM - INFO - **** Providing customer info ****
+04/30/2021 03:1619810931  PM - INFO - **** Test_003_AddCustomer ****
+04/30/2021 03:1619810936  PM - INFO - ***** Login Sucessful ****
+04/30/2021 03:1619810936  PM - INFO - ***** Starting Add customer Test ***** 
+04/30/2021 03:1619810942  PM - INFO - **** Providing customer info ****
+04/30/2021 07:1619823985  PM - INFO - **** Test_003_AddCustomer ****
+04/30/2021 07:1619823990  PM - INFO - ***** Login Sucessful ****
+04/30/2021 07:1619823990  PM - INFO - ***** Starting Add customer Test ***** 
+04/30/2021 07:1619823996  PM - INFO - **** Providing customer info ****
+04/30/2021 07:1619824405  PM - INFO - **** Test_003_AddCustomer ****
+04/30/2021 07:1619824411  PM - INFO - ***** Login Sucessful ****
+04/30/2021 07:1619824411  PM - INFO - ***** Starting Add customer Test ***** 
+04/30/2021 07:1619824414  PM - INFO - **** Providing customer info ****
+05/04/2021 08:1620131869  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 08:1620131875  AM - INFO - ***** Login Sucessful ****
+05/04/2021 08:1620131875  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 08:1620131878  AM - INFO - **** Providing customer info ****
+05/04/2021 08:1620132028  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 08:1620132035  AM - INFO - ***** Login Sucessful ****
+05/04/2021 08:1620132035  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 08:1620132037  AM - INFO - **** Providing customer info ****
+05/04/2021 08:1620132113  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 08:1620132121  AM - INFO - ***** Login Sucessful ****
+05/04/2021 08:1620132121  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 08:1620132124  AM - INFO - **** Providing customer info ****
+05/04/2021 08:1620132211  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 08:1620132217  AM - INFO - ***** Login Sucessful ****
+05/04/2021 08:1620132217  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 08:1620132220  AM - INFO - **** Providing customer info ****
+05/04/2021 09:1620133774  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 09:1620133782  AM - INFO - ***** Login Sucessful ****
+05/04/2021 09:1620133782  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 09:1620133786  AM - INFO - **** Providing customer info ****
+05/04/2021 09:1620133794  AM - INFO - **** Saving customer info ****
+05/04/2021 09:1620133794  AM - INFO - **** Add customer validation started
+05/04/2021 09:1620133795  AM - ERROR - *** Add customer Test Failed
+05/04/2021 09:1620136198  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 09:1620136213  AM - INFO - ***** Login Sucessful ****
+05/04/2021 09:1620136213  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 09:1620136218  AM - INFO - **** Providing customer info ****
+05/04/2021 09:1620136226  AM - INFO - **** Saving customer info ****
+05/04/2021 09:1620136226  AM - INFO - **** Add customer validation started
+05/04/2021 09:1620136227  AM - ERROR - *** Add customer Test Failed
+05/04/2021 10:1620137465  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 10:1620137471  AM - INFO - ***** Login Sucessful ****
+05/04/2021 10:1620137471  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 10:1620137474  AM - INFO - **** Providing customer info ****
+05/04/2021 10:1620137483  AM - INFO - **** Saving customer info ****
+05/04/2021 10:1620137483  AM - INFO - **** Add customer validation started
+05/04/2021 10:1620137483  AM - INFO - *** Add customer test passed ****
+05/04/2021 10:1620137691  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 10:1620137697  AM - INFO - ***** Login Sucessful ****
+05/04/2021 10:1620137697  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 10:1620137700  AM - INFO - **** Providing customer info ****
+05/04/2021 10:1620137869  AM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 10:1620137875  AM - INFO - ***** Login Sucessful ****
+05/04/2021 10:1620137875  AM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 10:1620137878  AM - INFO - **** Providing customer info ****
+05/04/2021 03:1620158143  PM - INFO - **** Test_003_AddCustomer ****
+05/04/2021 03:1620158149  PM - INFO - ***** Login Sucessful ****
+05/04/2021 03:1620158149  PM - INFO - ***** Starting Add customer Test ***** 
+05/04/2021 03:1620158155  PM - INFO - **** Providing customer info ****
+05/04/2021 03:1620158164  PM - INFO - **** Saving customer info ****
+05/04/2021 03:1620158164  PM - INFO - **** Add customer validation started
+05/04/2021 03:1620158164  PM - INFO - *** Add customer test passed ****
+05/12/2021 11:1620835152  AM - INFO - *** Search Customer by email ***
+05/12/2021 11:1620835158  AM - INFO - *** Login successful ***
+05/12/2021 11:1620835158  AM - INFO - *** Starting Search Customer by email ***
+05/12/2021 11:1620835159  AM - INFO - *** Searching Customers by email ***
+05/12/2021 12:1620835240  PM - INFO - **** Test_003_AddCustomer ****
+05/12/2021 12:1620835244  PM - INFO - ***** Login Sucessful ****
+05/12/2021 12:1620835244  PM - INFO - ***** Starting Add customer Test ***** 
+05/12/2021 12:1620835247  PM - INFO - **** Providing customer info ****
+05/12/2021 12:1620835256  PM - INFO - **** Saving customer info ****
+05/12/2021 12:1620835256  PM - INFO - **** Add customer validation started
+05/12/2021 12:1620835256  PM - INFO - *** Add customer test passed ****
+05/12/2021 12:1620835443  PM - INFO - *** Search Customer by email ***
+05/12/2021 12:1620835449  PM - INFO - *** Login successful ***
+05/12/2021 12:1620835449  PM - INFO - *** Starting Search Customer by email ***
+05/12/2021 12:1620835450  PM - INFO - *** Searching Customers by email ***
+05/12/2021 12:1620837975  PM - INFO - *** Search Customer by email ***
+05/12/2021 12:1620837981  PM - INFO - *** Login successful ***
+05/12/2021 12:1620837981  PM - INFO - *** Starting Search Customer by email ***
+05/12/2021 12:1620837983  PM - INFO - *** Searching Customers by email ***
+05/17/2021 04:1621282924  PM - INFO - *** Search Customer by email ***
+05/17/2021 04:1621282930  PM - INFO - *** Login successful ***
+05/17/2021 04:1621282930  PM - INFO - *** Starting Search Customer by email ***
+05/17/2021 04:1621282932  PM - INFO - *** Searching Customers by email ***
+05/17/2021 04:1621285118  PM - INFO - *** Search Customer by email ***
+05/17/2021 04:1621285124  PM - INFO - *** Login successful ***
+05/17/2021 04:1621285124  PM - INFO - *** Starting Search Customer by email ***
+05/17/2021 04:1621285126  PM - INFO - *** Searching Customers by email ***
+05/17/2021 04:1621285131  PM - INFO - *** TC_Search Customer by email_004 Finished ***
+05/17/2021 04:1621285161  PM - INFO - *** Search Customer by email ***
+05/17/2021 04:1621285167  PM - INFO - *** Login successful ***
+05/17/2021 04:1621285167  PM - INFO - *** Starting Search Customer by email ***
+05/17/2021 04:1621285169  PM - INFO - *** Searching Customers by email ***
+05/17/2021 04:1621285174  PM - INFO - *** TC_Search Customer by email_004 Finished ***
+05/17/2021 04:1621285184  PM - INFO - *** Search Customer by email ***
+05/17/2021 04:1621285190  PM - INFO - *** Login successful ***
+05/17/2021 04:1621285190  PM - INFO - *** Starting Search Customer by email ***
+05/17/2021 04:1621285192  PM - INFO - *** Searching Customers by email ***
+05/17/2021 04:1621285197  PM - INFO - *** TC_Search Customer by email_004 Finished ***
+05/17/2021 05:1621286820  PM - INFO - *** Search Customer by email ***
+05/17/2021 05:1621286851  PM - INFO - *** Search Customer by email ***
+05/17/2021 05:1621286880  PM - INFO - *** Login successful ***
+05/17/2021 05:1621286880  PM - INFO - *** Starting Search Customer by email ***
+05/17/2021 05:1621286883  PM - INFO - *** Searching Customers by email ***
+05/17/2021 05:1621286888  PM - INFO - *** TC_Search Customer by email_004 Finished ***
+05/18/2021 08:1621342054  AM - INFO - *** Search Customer by email ***
+05/18/2021 08:1621342083  AM - INFO - *** Login successful ***
+05/18/2021 08:1621342083  AM - INFO - *** Starting Search Customer by email ***
+05/18/2021 08:1621342086  AM - INFO - *** Searching Customers by email ***
+05/18/2021 08:1621342091  AM - INFO - *** TC_Search Customer by email_004 Finished ***
+05/19/2021 08:1621427240  AM - INFO - *** Search Customer by email ***
+05/19/2021 08:1621427247  AM - INFO - *** Login successful ***
+05/19/2021 08:1621427247  AM - INFO - *** Starting Search Customer by email ***
+05/19/2021 08:1621427248  AM - INFO - *** Searching Customers by email ***
+05/19/2021 08:1621427254  AM - INFO - *** TC_Search Customer by email_004 Finished ***
+07/09/2021 04:1625861935  PM - INFO - *** Search customer by Name ***
+07/09/2021 04:1625861941  PM - INFO - *** Login successful ***
+07/09/2021 04:1625861941  PM - INFO - *** Navigating to customer menu item page ***
+07/09/2021 04:1625861943  PM - INFO - *** Sucessfully navigated to customer menu item page ***
+07/09/2021 04:1625861946  PM - INFO - *** Starting to search customer by name ***
+07/09/2021 04:1625861946  PM - INFO - *** Entering the name ***
+07/09/2021 04:1625861946  PM - INFO - *** clicking on search ***
+07/09/2021 04:1625861952  PM - INFO - *** TC_Search Customer by name_005 Finished  ***
+08/01/2021 05:1627854408  PM - INFO - *********  Test_001_Login **************
+08/01/2021 05:1627854408  PM - INFO - ****************** Verifing home Page title ****************
+08/01/2021 05:1627854410  PM - INFO - **************  Home Page title is passed  ****************
+08/01/2021 05:1627854413  PM - INFO - ************  Verifing Login Test **************
+08/01/2021 05:1627854417  PM - INFO - ***********  Login Test is Passed ************
+08/04/2021 10:1628088977  AM - INFO - *********  Test_001_Login **************
+08/04/2021 10:1628088977  AM - INFO - ****************** Verifing home Page title ****************
+08/04/2021 10:1628088979  AM - INFO - **************  Home Page title is passed  ****************
+08/04/2021 10:1628088982  AM - INFO - ************  Verifing Login Test **************
+08/04/2021 10:1628088986  AM - INFO - ***********  Login Test is Passed ************
+08/05/2021 05:1628198930  PM - INFO - *********  Test_001_Login **************
+08/05/2021 05:1628198930  PM - INFO - ****************** Verifing home Page title ****************
+08/05/2021 05:1628198933  PM - INFO - **************  Home Page title is passed  ****************
+08/05/2021 05:1628198935  PM - INFO - ************  Verifing Login Test **************
+08/05/2021 05:1628198940  PM - INFO - ***********  Login Test is Passed ************
+08/11/2021 05:1628717324  PM - INFO - **** Test_003_AddCustomer ****
+08/11/2021 05:1628717324  PM - INFO - **** Test_003_AddCustomer ****
+08/11/2021 05:1628717324  PM - INFO - **** Test_003_AddCustomer ****
+08/11/2021 05:1628717324  PM - INFO - **** Test_003_AddCustomer ****
+08/11/2021 05:1628717324  PM - INFO - **** Test_003_AddCustomer ****
+08/11/2021 05:1628717328  PM - INFO - ***** Login Sucessful ****
+08/11/2021 05:1628717328  PM - INFO - ***** Login Sucessful ****
+08/11/2021 05:1628717328  PM - INFO - ***** Login Sucessful ****
+08/11/2021 05:1628717328  PM - INFO - ***** Login Sucessful ****
+08/11/2021 05:1628717328  PM - INFO - ***** Login Sucessful ****
+08/11/2021 05:1628717328  PM - INFO - ***** Starting Add customer Test ***** 
+08/11/2021 05:1628717328  PM - INFO - ***** Starting Add customer Test ***** 
+08/11/2021 05:1628717328  PM - INFO - ***** Starting Add customer Test ***** 
+08/11/2021 05:1628717328  PM - INFO - ***** Starting Add customer Test ***** 
+08/11/2021 05:1628717328  PM - INFO - ***** Starting Add customer Test ***** 
+08/11/2021 05:1628717333  PM - INFO - **** Providing customer info ****
+08/11/2021 05:1628717333  PM - INFO - **** Providing customer info ****
+08/11/2021 05:1628717333  PM - INFO - **** Providing customer info ****
+08/11/2021 05:1628717333  PM - INFO - **** Providing customer info ****
+08/11/2021 05:1628717333  PM - INFO - **** Providing customer info ****
+08/11/2021 05:1628717342  PM - INFO - **** Saving customer info ****
+08/11/2021 05:1628717342  PM - INFO - **** Saving customer info ****
+08/11/2021 05:1628717342  PM - INFO - **** Saving customer info ****
+08/11/2021 05:1628717342  PM - INFO - **** Saving customer info ****
+08/11/2021 05:1628717342  PM - INFO - **** Saving customer info ****
+08/11/2021 05:1628717342  PM - INFO - **** Add customer validation started
+08/11/2021 05:1628717342  PM - INFO - **** Add customer validation started
+08/11/2021 05:1628717342  PM - INFO - **** Add customer validation started
+08/11/2021 05:1628717342  PM - INFO - **** Add customer validation started
+08/11/2021 05:1628717342  PM - INFO - **** Add customer validation started
+08/11/2021 05:1628717342  PM - INFO - *** Add customer test passed ****
+08/11/2021 05:1628717342  PM - INFO - *** Add customer test passed ****
+08/11/2021 05:1628717342  PM - INFO - *** Add customer test passed ****
+08/11/2021 05:1628717342  PM - INFO - *** Add customer test passed ****
+08/11/2021 05:1628717342  PM - INFO - *** Add customer test passed ****
+08/11/2021 05:1628717345  PM - INFO - *********  Test_001_Login **************
+08/11/2021 05:1628717345  PM - INFO - *********  Test_001_Login **************
+08/11/2021 05:1628717345  PM - INFO - *********  Test_001_Login **************
+08/11/2021 05:1628717345  PM - INFO - *********  Test_001_Login **************
+08/11/2021 05:1628717345  PM - INFO - *********  Test_001_Login **************
+08/11/2021 05:1628717345  PM - INFO - ****************** Verifing home Page title ****************
+08/11/2021 05:1628717345  PM - INFO - ****************** Verifing home Page title ****************
+08/11/2021 05:1628717345  PM - INFO - ****************** Verifing home Page title ****************
+08/11/2021 05:1628717345  PM - INFO - ****************** Verifing home Page title ****************
+08/11/2021 05:1628717345  PM - INFO - ****************** Verifing home Page title ****************
+08/11/2021 05:1628717347  PM - INFO - **************  Home Page title is passed  ****************
+08/11/2021 05:1628717347  PM - INFO - **************  Home Page title is passed  ****************
+08/11/2021 05:1628717347  PM - INFO - **************  Home Page title is passed  ****************
+08/11/2021 05:1628717347  PM - INFO - **************  Home Page title is passed  ****************
+08/11/2021 05:1628717347  PM - INFO - **************  Home Page title is passed  ****************
+08/11/2021 05:1628717349  PM - INFO - ************  Verifing Login Test **************
+08/11/2021 05:1628717349  PM - INFO - ************  Verifing Login Test **************
+08/11/2021 05:1628717349  PM - INFO - ************  Verifing Login Test **************
+08/11/2021 05:1628717349  PM - INFO - ************  Verifing Login Test **************
+08/11/2021 05:1628717349  PM - INFO - ************  Verifing Login Test **************
+08/11/2021 05:1628717355  PM - INFO - ***********  Login Test is Passed ************
+08/11/2021 05:1628717355  PM - INFO - ***********  Login Test is Passed ************
+08/11/2021 05:1628717355  PM - INFO - ***********  Login Test is Passed ************
+08/11/2021 05:1628717355  PM - INFO - ***********  Login Test is Passed ************
+08/11/2021 05:1628717355  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628803962  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628803962  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628803962  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628803962  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628803962  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628803966  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628803966  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628803966  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628803966  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628803966  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628803966  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628803966  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628803966  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628803966  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628803966  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628803970  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628803970  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628803970  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628803970  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628803970  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628803979  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628803979  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628803979  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628803979  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628803979  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628803979  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628803979  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628803979  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628803979  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628803979  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628803980  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628803980  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628803980  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628803980  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628803980  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628803982  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628803982  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628803982  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628803982  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628803982  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628803982  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628803982  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628803982  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628803982  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628803982  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628803984  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628803984  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628803984  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628803984  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628803984  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628803986  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628803986  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628803986  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628803986  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628803986  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628803991  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628803991  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628803991  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628803991  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628803991  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628804571  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628804571  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628804571  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628804571  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628804571  PM - INFO - **** Test_003_AddCustomer ****
+08/12/2021 05:1628804575  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628804575  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628804575  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628804575  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628804575  PM - INFO - ***** Login Sucessful ****
+08/12/2021 05:1628804575  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628804575  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628804575  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628804575  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628804575  PM - INFO - ***** Starting Add customer Test ***** 
+08/12/2021 05:1628804579  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628804579  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628804579  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628804579  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628804579  PM - INFO - **** Providing customer info ****
+08/12/2021 05:1628804587  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628804587  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628804587  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628804587  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628804587  PM - INFO - **** Saving customer info ****
+08/12/2021 05:1628804587  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628804587  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628804587  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628804587  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628804587  PM - INFO - **** Add customer validation started
+08/12/2021 05:1628804587  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628804587  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628804587  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628804587  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628804587  PM - INFO - *** Add customer test passed ****
+08/12/2021 05:1628804590  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628804590  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628804590  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628804590  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628804590  PM - INFO - *********  Test_001_Login **************
+08/12/2021 05:1628804590  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628804590  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628804590  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628804590  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628804590  PM - INFO - ****************** Verifing home Page title ****************
+08/12/2021 05:1628804592  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628804592  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628804592  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628804592  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628804592  PM - INFO - **************  Home Page title is passed  ****************
+08/12/2021 05:1628804594  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628804594  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628804594  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628804594  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628804594  PM - INFO - ************  Verifing Login Test **************
+08/12/2021 05:1628804598  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628804598  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628804598  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628804598  PM - INFO - ***********  Login Test is Passed ************
+08/12/2021 05:1628804598  PM - INFO - ***********  Login Test is Passed ************
